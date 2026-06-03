@@ -61,7 +61,7 @@ const legends = [
   },
   {
     name: "The Last Member",
-    image: "/legends/last-Member.png",
+    image: "/legends/last-member.png",
     desc: "The final seat of WL Society, whose identity remains unknown.",
     featured: true,
   },
