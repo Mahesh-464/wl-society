@@ -1,7 +1,7 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "WL Society — Not A Project. It's A Society.",
+  title: "WL Society",
   description:
     "WL Society is a growing digital society built by builders, visionaries and explorers. Built on Trust. Driven by Purpose. United as One.",
   keywords: ["WL Society", "NFT", "community", "legends", "web3"],
